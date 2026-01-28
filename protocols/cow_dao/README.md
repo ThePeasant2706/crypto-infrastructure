@@ -1,3 +1,4 @@
+![COW_DAO execution and routing abstraction](cow_dao_architecture_diagram.png)
 
 🐄 CoW DAO
 
