@@ -1,3 +1,6 @@
+![COW_DAO execution and routing abstraction](anoma_architecture_diagram.png)
+
+
 🧬 Anoma
 
 Anoma is a decentralized protocol for intent-based coordination that allows users and applications to express what they want rather than how to execute it. Instead of submitting transactions to a specific chain or contract, users submit private intents that describe desired outcomes, which the network matches and settles without requiring direct interaction or synchronous execution.
