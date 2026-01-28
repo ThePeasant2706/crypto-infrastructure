@@ -1,6 +1,6 @@
 # Socket Protocol
 
-![Socket execution and routing abstraction](diagram.png)
+![Socket execution and routing abstraction](architecture_diagram.png)
 
 Socket is an execution and routing abstraction layer that sits between applications
 and lower-level cross-chain messaging or settlement infrastructure.
