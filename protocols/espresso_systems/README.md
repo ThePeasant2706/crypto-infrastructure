@@ -1,6 +1,6 @@
 #Espresso Systems
 
-#![Espresso Systems execution and routing abstraction](espresso_systems_architecture_diagram.png)
+![Espresso Systems execution and routing abstraction](espresso_systems_architecture_diagram.png)
 
 Espresso is a shared sequencing layer that provides neutral, decentralized transaction ordering for rollups and appchains.
 
