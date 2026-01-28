@@ -1,3 +1,6 @@
+![Faroswap execution and routing abstraction](faroswap_architecture_diagram.png)
+
+
 🛠 FaroSwap
 
 FaroSwap is a decentralized exchange (DEX) natively built on the Pharos Network to provide efficient, deep liquidity and seamless token swaps with low fees and fast transaction finality. It combines automated market maker (AMM) mechanics with enhanced liquidity provisioning models to deliver smooth trading for users and attractive yield opportunities for liquidity providers. ￼
