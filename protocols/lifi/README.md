@@ -1,3 +1,4 @@
+![lifi execution and routing abstraction](lifi_architecture_diagram.png)
 
 
 🧭 Li.Fi
