@@ -1,4 +1,4 @@
-![doublezero execution and routing abstraction](doublezero_architecture_diagram.png)
+![doublezero execution and routing abstraction](doublezero_architecture_diagram.pn)
 
 
 🕸️ DoubleZero (2Z)
