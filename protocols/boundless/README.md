@@ -1,3 +1,4 @@
+![boundless execution and routing abstraction](boundless_architecture_diagram.png)
 
 
 🪐 Boundless / ZKC
